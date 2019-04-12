@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MPD_CW</string>
+    <string name="web_service_url">http://quakes.bgs.ac.uk/feeds/MhSeismology.xml</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="earthquake_information_image">A graphical representation of the earthquake</string>
+    <string name="most_northerly">Most Northerly earthquake</string>
+    <string name="most_southerly">Most Southerly Earthquake</string>
+    <string name="most_westerly">Most Westerly Earthquake</string>
+    <string name="most_easterly">Most Easterly Earthquake</string>
+    <string name="largest_magnitude">Largest Magnitude Earthquake</string>
+    <string name="deepest_earthquake">Deepest Earthquake</string>
+    <string name="shallowest_earthquake">Shallowest Earthquake</string>
+    <string name="read_error">Unable to read earthquake data</string>
+    <string name="connect_error">Unable to connect to quakes.bgs.ac.uk/feeds/</string>
+</resources>
